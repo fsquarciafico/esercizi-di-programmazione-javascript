@@ -17,3 +17,11 @@
 
   http://www.imparareaprogrammare.it
 */
+
+var gatti =5;
+var inFila=3;
+
+var nFila=Math.ceil(gatti/inFila);
+
+var gattiMancanti=(nFila*inFila)-gatti;
+console.log(`${gatti} gatti in file per ${inFila} file. Nell' ultima fila rimasero ${gattiMancanti} rimasero posti disponibili`);

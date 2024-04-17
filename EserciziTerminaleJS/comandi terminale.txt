@@ -1,0 +1,5 @@
+apertura ambiente esercizi da terminale => javascripting
+creazione file=> type NUL> nomeFile.js
+verifica prova (test) => javascripting verify nomeFile.js
+
+Apice inverso ` => ALT+96 
